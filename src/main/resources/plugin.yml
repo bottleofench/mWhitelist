@@ -6,4 +6,4 @@ authors: [ bottleofench ]
 
 commands:
   mwh:
-    permission: mwh.*
+    permission: mwh
