@@ -1,0 +1,3 @@
+whitelist: true
+whitelist_message: "Вы не в вайтлисте!"
+players: []
